@@ -1,3 +1,2 @@
 # Fuzzy-learning
-1231
-ss
+record Fuzzy learning detail
